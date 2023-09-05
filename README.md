@@ -1,4 +1,3 @@
-[**HITEK INTERNSHIP EXAM | FRONT-END**]()
 
 ## Getting Started
 Index
