@@ -10,6 +10,7 @@ import {
   Divider,
   PaginationProps,
   Pagination,
+  Modal,
 } from "antd";
 import Link from "next/link";
 import { ADMIN_ROUTES } from "@/utils/routers";
@@ -63,7 +64,9 @@ const dashboard = () => {
   const handleDelete = async (id: string) => {
     try {
       const res = await BlogAPI.deleteBlogs(id);
-
+      Modal.success({
+        content: " Delete in success",
+      });
       getBlogList();
 
     } catch (error) {

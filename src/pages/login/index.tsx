@@ -61,9 +61,9 @@ const login = () => {
         content: " Logged in successfully ",
       });
     } catch (error) {
-      // Modal.error({
-      //   conten t: " Logged in failed ",
-      // });
+      Modal.error({
+        content: " Logged in failed ",
+      });
     }
   };
 

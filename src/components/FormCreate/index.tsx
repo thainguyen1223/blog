@@ -52,11 +52,10 @@ const FormCreate = ({ onSubmit, register, errors }: any) => {
           )}
         </Col>
         <Row>
-          <Col span={10} xs={12} sm={10} className={classes.btnCreate}>
-            <button type="submit" >
-  
+          <Col span={10} xs={12} sm={10}>
+            <div className={classes.back}>
               <Link href={ADMIN_ROUTES.DASHBOARD}>Back</Link>
-            </button>
+            </div>
           </Col>
           <Col span={10} xs={8}sm={10} className={classes.btnCreate}>
             <button type="submit" >

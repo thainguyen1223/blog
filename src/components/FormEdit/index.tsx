@@ -87,8 +87,8 @@ const FormEdit = ({ handleSubmitEditTodo }: any) => {
           />
         </Col>
         <Row gutter={16}>
-        <Col span={10} xs={12} sm={10}  className={classes.btnEdit}>
-          <button type="submit" ><Link href={ADMIN_ROUTES.DASHBOARD}>Back </Link></button>
+        <Col span={10} xs={12} sm={10}  className={classes.back}>
+          <div><Link href={ADMIN_ROUTES.DASHBOARD}>Back </Link></div>
         </Col>
         <Col span={10}  xs={8} sm={10} className={classes.btnEdit}>
           <button type="submit">Edit</button>
