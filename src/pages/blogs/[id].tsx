@@ -1,9 +1,10 @@
 import React from "react";
 import * as BlogAPI from "@/api/BlogAPI";
 import BaseLayout from "@/layouts/BaseLayout";
-import { Col, Row, Skeleton } from "antd";
+import { Breadcrumb, Col, Row, Skeleton } from "antd";
 import { InferGetServerSidePropsType } from "next";
 import classes from "./blogs.module.scss";
+import { BLOG_ROUTES } from "@/utils/routers";
 export const getServerSideProps = async ({ query }: any) => {
   const { id, params } = query;
   try {
@@ -19,7 +20,28 @@ const BlogDetailPage = ({
   blog,
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => {
   return (
+    
     <BaseLayout>
+        <Breadcrumb
+        className="breadcrumb"
+        items={[
+          {
+            key: "home",
+            href: "",
+            title: "Home",
+          },
+          {
+            key: "blogs",
+            href: BLOG_ROUTES.BLOGS,
+            title: "Blogs",
+          },
+          {
+            key: "title",
+            href: "",
+            title: <div>{blog.title || null}</div>,
+          },
+        ]}
+      />
       <Row gutter={16} className={classes.wrapper}>
         {blog ? (
           <Col className="gutter-row" style={{ padding: "0 10px" }}>

@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "./authLayout.module.scss";
 import { AuthLayoutProps } from "@/types/layouts";
-import { Breadcrumb, Layout, Menu, MenuProps } from "antd";
+import {  Layout, Menu } from "antd";
 import { MenuData } from "@/utils/menu";
 import { userStore } from "@/store/userStore";
 import { useRouter } from "next/router";

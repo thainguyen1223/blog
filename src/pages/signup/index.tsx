@@ -6,7 +6,7 @@ import * as AuthAPI from "@/api/AuthAPI";
 import { useRouter } from "next/router";
 import { APP_ROUTES } from "@/utils/routers";
 
-import { Input, Modal, message } from "antd";
+import {  Modal } from "antd";
 
 interface FormData {
   id: string;
@@ -173,12 +173,12 @@ const login = () => {
               </div>
               <div className={classes.btnSide}>
                 <button type="submit">Log in</button>
+              </div>
                 <div className={classes.signUp}>
                   <p>Don't have an account?</p>
 
                   <a onClick={() => router.push(APP_ROUTES.LOGIN)}>Sign in</a>
                 </div>
-              </div>
             </form>
           </div>
         </div>

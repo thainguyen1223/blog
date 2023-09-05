@@ -1,4 +1,4 @@
-import AuthLayout from "@/layouts/AuthLayout";
+
 import { userStore } from "@/store/userStore";
 import React, { useEffect } from "react";
 import { useRecoilState } from "recoil";

@@ -8,16 +8,13 @@ import {
   Skeleton,
   Pagination,
   Breadcrumb,
-  Divider,
-  Row,
-  Col,
   PaginationProps,
 } from "antd";
 import Link from "next/link";
 
 import { APP_ROUTES } from "@/utils/routers";
 import classes from "./blogs.module.scss";
-import { LeftOutlined, RightOutlined } from "@ant-design/icons";
+
 
 const blogs = () => {
   const [pagination, setPagination] = useState({

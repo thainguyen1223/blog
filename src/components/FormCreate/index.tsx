@@ -1,9 +1,9 @@
 import React from "react";
 import classes from "./FormCreate.module.scss";
-import { Input, List, Row, Col, Button } from "antd";
+import { Input, List, Row, Col,  } from "antd";
 import Link from "next/link";
 import { ADMIN_ROUTES } from "@/utils/routers";
-const { TextArea } = Input;
+
 const FormCreate = ({ onSubmit, register, errors }: any) => {
   return (
     <form onSubmit={onSubmit} style={{marginLeft:'10px'}}>

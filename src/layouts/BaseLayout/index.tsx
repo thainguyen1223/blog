@@ -1,4 +1,4 @@
-import { Breadcrumb, Layout, Menu } from "antd";
+import {  Layout, Menu } from "antd";
 import { BaseLayoutProps } from "@/types/layouts";
 import classes from "./baseLayout.module.scss";
 import { MenuData } from "@/utils/menu";

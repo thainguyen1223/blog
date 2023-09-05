@@ -42,7 +42,7 @@ Tạo cơ sở dữ liệu của riêng bạn bên trong tệp ``` db.json ```. 
 ```sh
 {
 ...
-"bắt đầu": "json-server db.json -m ./node_modules/json-server-auth --port 3004"
+"start": "json-server db.json -m ./node_modules/json-server-auth --port 3004"
 ...
 }
 ```
@@ -61,7 +61,7 @@ Bất kỳ tuyến đường nào sau đây đều đăng ký người dùng m�
 **`email`** và **`password`** được yêu cầu trong nội dung yêu cầu :
 
 ``` http
-ĐĂNG /đăng ký
+POST /register
 {
    "email": "sampleUser@mail.com",
    "mật khẩu": "Mật khẩu mẫu"
@@ -78,7 +78,7 @@ Bất kỳ tuyến nào sau đây đều ghi nhật ký người dùng hiện c�
  **`email`** và **`password`** là bắt buộc:
 
 ``` http
-ĐĂNG /đăng nhập
+POST /login
 {
    "email": "sampleUser@mail.com",
    "mật khẩu": "Mật khẩu mẫu"
