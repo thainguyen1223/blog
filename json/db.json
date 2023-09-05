@@ -1,0 +1,325 @@
+{
+  "users": [
+    {
+      "email": "abcdef@gmail.com",
+      "password": "$2a$10$DPahNy2Bb0vddondkuk1vuttWUWfcCW1i//NucA31k53glPdxilJ6",
+      "id": 3
+    },
+    {
+      "email": "abcdef@gmail.com",
+      "password": "$2a$10$VcxUMZtSKgxtX1OyKLpRouWaOCHRHUjp7FOqtmd5.nC00KDHkYB8y",
+      "id": 4
+    },
+    {
+      "email": "thai@gmail.com",
+      "password": "$2a$10$bkJvlzxQqq2bqM3ua/qgsuk.BQQKbFlXG2uEjT/Q6QK9cjpK149EW",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123123",
+      "id": 5
+    },
+    {
+      "email": "thai1@gmail.com",
+      "password": "$2a$10$nvqRWX2xOR1MYUWnG02YyOD8XINsflElEuPRxQ3qr1yDepviYRIsC",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123123",
+      "id": 6
+    },
+    {
+      "email": "thai123@gmail.com",
+      "password": "$2a$10$XM7Yt2k2TXu35qq2xDxZLu3wo157kWNOZlH9n2iLAbXr3QemWMSMG",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123",
+      "id": 7
+    },
+    {
+      "email": "t@gmail.com",
+      "password": "$2a$10$Nxi7WUFsZtjlvAwpqnfJT.RSOsJUklcz5/3H02jiL302EGZH8gAZO",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123213",
+      "id": 8
+    },
+    {
+      "email": "2@gmail.com",
+      "password": "$2a$10$sPV2pG7OO7OCK3oR.1lHlOhd8c39l9skc5ctbHBMkuc1cNVg9W8Yq",
+      "account_type": "user",
+      "gender": "men",
+      "phone": "123",
+      "id": 9
+    },
+    {
+      "email": "1@gmail.com",
+      "password": "$2a$10$aNxLjpsvY1AZVo9gqvfcCO8qvfyUIzAPkmfBX40ug5Gq4y2qxNMau",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123",
+      "id": 10
+    },
+    {
+      "email": "3@gmail.com",
+      "password": "$2a$10$qhsPQUT31oyEhbgrJ7.iauMkmv2.ZxFk7oIHLy29kDwy8EH7BqNFW",
+      "account_type": "user",
+      "gender": "men",
+      "phone": "12312312",
+      "id": 11
+    },
+    {
+      "email": "4@gmail.com",
+      "password": "$2a$10$g1upCF8mxVcqG0rKzmEpTOqQ5M.zrO3umAdO9p8ExtKRF8d3cRtGa",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123213",
+      "id": 12
+    },
+    {
+      "email": "5@gmail.com",
+      "password": "$2a$10$IF34u..2T20wkw8OiNQrZulzXj7u0o/mSWfOofbNzAB3A6dF6UOza",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123",
+      "id": 13
+    },
+    {
+      "email": "6@gmail.com",
+      "password": "$2a$10$2IsG0OFAqqKpxY1iQP59Qu.V4EPvMneO4PXGwypQqUF8Lc3r/ynLi",
+      "account_type": "user",
+      "gender": "men",
+      "phone": "123123",
+      "id": 14
+    },
+    {
+      "email": "123213213@gmail.com",
+      "password": "$2a$10$EGOx0j2VRVkmsMXW/tx6AOcxrsOxpYlrkOwhpi0GAIbwL/LodKj.e",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "12321312",
+      "id": 15
+    },
+    {
+      "email": "21312@gmail.com",
+      "password": "$2a$10$sy9rbIr6cCoYmosKfCG8bOrGwCjJ//djHKL2joLt11nAOHX2bqnIe",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123213",
+      "id": 16
+    },
+    {
+      "email": "213213213@gmail.com",
+      "password": "$2a$10$wRCKS1XOWUimOMtQBlu87eT3XMRi0QcZ89d4gt5QuhqkB5eCt4spe",
+      "userName": "123123",
+      "lastName": "213213",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123123",
+      "id": 17
+    },
+    {
+      "email": "21312312@gmail.com",
+      "password": "$2a$10$/EwKI5eVXkOgff.oVICA5u.x5JX3ibtwhrPU9TZ3Te07Q5N9OWRg6",
+      "userName": "123123",
+      "lastName": "123123",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123213",
+      "id": 18
+    },
+    {
+      "email": "213213@gmail.com",
+      "password": "$2a$10$JYBwTvtIjgdM9buru6b4IOpSniNW272zUmMUd0NYkycTXaU1WSIKe",
+      "userName": "3213",
+      "lastName": "123123",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "213213",
+      "id": 19
+    },
+    {
+      "email": "12312312@gmail.com",
+      "password": "$2a$10$G6cQZb5Vnp8wImZUclf5y.9O6PMyC2/vP/5wqtoWF67JZBYx64uyG",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123213",
+      "id": 20
+    },
+    {
+      "email": "duythai123@gmail.com",
+      "password": "$2a$10$qYeQULavVDNJfjbCoIT8CurBLkb34sIR5YbpcTDtzy9TxTKeHPGo6",
+      "userName": "312312",
+      "lastName": "312312",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123123",
+      "id": 21
+    },
+    {
+      "email": "duythai12@gmail.com",
+      "password": "$2a$10$FxFGEA1CRdSV0mk4A.ZLnetY8HsHdKxpoOlF6p1gSHxQQ7HtqP4Fy",
+      "userName": "123213",
+      "lastName": "213213",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123123",
+      "id": 22
+    },
+    {
+      "email": "duythai123456@gmail.com",
+      "password": "$2a$10$s4JUBj0eb5pUCctvBTFUmeetZqQlCT7ZaniD5qg2ZfdcS9nYFXx26",
+      "userName": "12312312",
+      "lastName": "21312312",
+      "account_type": "admin",
+      "gender": "men",
+      "phone": "123123",
+      "id": 23
+    },
+    {
+      "email": "duythai147258@Gmail.com",
+      "password": "$2a$10$LkymOgapiPFVHbzPAwC4ZebkuXwJhbdNe2.tTQNxkkisA3vV57XAy",
+      "userName": "thai",
+      "lastName": "nguyen",
+      "account_type": "master",
+      "gender": "men",
+      "phone": "12312321",
+      "id": 24
+    },
+    {
+      "email": "duy147258@gmail.com",
+      "password": "$2a$10$6UgqYOpvBGG3Ui1eFoa36.barqMirn4x6LYSFcgAmXBblgwnwDJEi",
+      "userName": "thai",
+      "lastName": "nguyen",
+      "account_type": "master",
+      "gender": "men",
+      "phone": "123456",
+      "id": 25
+    },
+    {
+      "email": "duy147@gmail.com",
+      "password": "$2a$10$ZsW33SSzxW0JqcCO1iI4L.4GGxAUu4cb39ovfFlbb/.thCyc7KqCS",
+      "userName": "nguyen",
+      "lastName": "thai",
+      "account_type": "normal",
+      "gender": "women",
+      "phone": "123213",
+      "id": 26
+    },
+    {
+      "email": "duy1478@gmail.com",
+      "password": "$2a$10$b2tVI.bvUqSVHCo.ltG/juPMblt956rPpxhrKpwnNs85ad.vaUSye",
+      "userName": "duyth",
+      "lastName": "ư12312",
+      "account_type": "normal",
+      "gender": "men",
+      "phone": "13213",
+      "id": 27
+    }
+  ],
+  "blogs": [
+    {
+      "id": 4,
+      "title": "Ukraine's air force says it shot down 12 out of 20 Russian missiles and drones launched overnight",
+      "content": "Russia launched cruise missiles and drones at targets across Ukraine overnight, Ukraine's air force said Wednesday.\n\nIn a statement, the air force said 12 out of 20 missiles and drones fired by Russia were intercepted by Ukrainian air defenses.\n\nRussia fired four Kalibr cruise missiles from the Black Sea in the direction of Odesa, three of which were shot down, it said. Ukrainian authorities said earlier that at least three people were killed and 13 others were wounded in the attack on the southern port city.\n\nRussian forces also launched six Kh-22 air-launched cruise missiles from Tu-22M3 long-range bombers targeting Donetsk from Russia's Rostov region, according to Ukraine's air force.\n\nThe impact of those missiles is unclear at the moment. \n\nRussia also launched 10 Iran-made attack drones on southeastern Ukraine, nine of which were shot down, the air force said.\n\n\"The Air Force, in cooperation with the air defense of the Ukrainian Defense Forces, destroyed 12 air targets during this night attack: three Kalibr cruise missiles and nine Iranian Shahed-136/131 attack drones,\" the air force statement said.\nThis post has been updated.",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/23d3822a-674f-4806-8c3c-cc394fc68aef.jpg",
+      "description": "From CNN's Olga Voitovych in Kyiv"
+    },
+    {
+      "id": 5,
+      "title": "Russian missile attack kills at least 3 in Odesa, Ukraine's military says",
+      "content": "At least three people died and 13 others were wounded on Wednesday after Russia fired four cruise missiles from the Black Sea at Ukraine's southern port city of Odesa, Ukrainian authorities said.\n\nIn a statement, Ukraine's Operational Command South said the strikes killed at least three people and injured seven others at a retail chain warehouse. Victims might still be trapped under the rubble there, it said.\n\nSix other people were injured at another location in the city center, where the attack damaged a business center, an educational institution, a residential complex, restaurants and shops, the statement added.\n\nThe attack comes after 11 people were killed, including a child, in Russian missile strikes on the central city of Kryvyi Rih on Tuesday, according to Ukrainian officials.",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/333c5783-9dfe-42df-8aba-2b927f4df0fe.jpg",
+      "description": "From CNN's Olga Voitovych in Kyiv "
+    },
+    {
+      "id": 6,
+      "title": "Biden and NATO chief express desire for Sweden to join defense alliance \"as soon as possible\"",
+      "content": "US President Joe Biden and NATO Secretary General Jens Stoltenberg on Tuesday reaffirmed their wish for Sweden to join NATO.\n\nDuring a meeting in Washington, DC, the two leaders “underscored their shared desire to welcome Sweden to the Alliance as soon as possible,” according to a White House readout.\n\nSweden signaled its intention to join NATO in May last year following Russia's full-scale invasion of Ukraine but its accession is being blocked by Turkey and Hungary.\n\nThe White House readout said Biden and Stoltenberg also discussed “the implications of Russia’s war on Ukraine for transatlantic security and the importance of continuing to strengthen NATO’s deterrence and defense.”\n\n\"They welcomed the support that Allies and partners are providing bilaterally to help Ukraine defend itself from Russian aggression,\" it added.\nEarlier, Stoltenberg said Ukraine's recent gains on the battlefield underscored the need for continued Western assistance to give Kyiv a \"stronger hand\" in any future negotiations with Moscow.\n\nThe meeting Tuesday comes ahead of a NATO Summit in Vilnius in July. ",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/d81121c4-a942-4165-ae73-d00ccba3dfd3.jpg",
+      "description": "From CNN's Mary Kay Mallonee"
+    },
+    {
+      "id": 7,
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe111",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://i.imgur.com/QIrZWGIs.jpg",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 202311"
+    },
+    {
+      "id": 8,
+      "title": "Ukraine claims battlefield advances in fierce fighting. Catch up on the latest headlines here",
+      "content": "Ukraine's top general said his troops have seen \"certain gains\" in their offensive and are \"moving forward,\" as fighting rages along the border of the Donetsk and Zaporizhzhia regions. \n\n“Both defensive and offensive fierce fighting is ongoing in the East and South of our nation. We have certain gains, implementing our plans, moving forward,” Gen. Valerii Zaluzhnyi said in a Facebook post. \n\nNATO's chief said Tuesday that Ukraine's gains on the battlefield underscore the need for continued Western assistance to give Kyiv a \"stronger hand\" in any future negotiations with Moscow.\n\nHere's the latest news from Russia's war in Ukraine:\n\nUkraine claims advances: Kyiv's troops are fighting fiercely to drive back the Russians along the border of the Donetsk and Zaporizhzhia regions, a Ukrainian commander said. Brig. Gen. Oleksandr Tarnavskyi, commander of the Tavria Operational and Strategic Group of Forces, said his troops are \"systematically destroying Russian manpower and equipment.\" CNN cannot independently verify battlefield claims. However, both sides have reported clashes in the area.\nA Russian view: \"Ukraine's offensive potential is far, far from exhausted,\" said Yevgeny Prigozhin, the head of Russia's Wagner mercenary group. Prigozhin also said he doesn't know if his fighters will remain in Ukraine amid an ongoing dispute with Russia’s Defense Ministry.\nRussian attacks: Ukrainian President Volodymyr Zelensky said a child was among 11 people killed in a Russian missile strike in the city of Kryvyi Rih on Tuesday. Meanwhile, in the northeastern Sumy region, at least seven forestry workers were killed by Russian shelling, a Ukrainian official said. Elsewhere in Sumy, a boarding school was hit by Russian shelling, forcing 135 children to evacuate, officials said.\nEuropean aid: Zelensky on Tuesday thanked the British-led alliance of multiple European countries for their latest air defense aid for Kyiv. The Joint Expeditionary Force had announced \"a powerful assistance package worth over €100 million [$108 million] to strengthen [Ukrainian] air defense,\" he said.\nDam collapse: The UN said the Nova Kakhovka dam collapse in southern Ukraine will have a \"huge impact\" on global food security, with prices likely to increase. Water levels are receding, but some settlements remain flooded, Ukrainian officials said. \nMeanwhile, on the front line: A Ukrainian military official on Tuesday reiterated accusations that Russian forces are blowing up small dams in areas where Ukrainian troops are on the offensive. The results were not large-scale and affected the agricultural land of one or two villages, according to Ukraine's Military Media Center.\nNord stream report: The Netherlands' public broadcaster NOS reported on Tuesday that Dutch military intelligence warned the CIA last year about an alleged Ukrainian plan to blow up the Nord Stream pipelines three months before they were hit. The report, which did not specify a source, was based on a joint investigation by NOS, Dutch television news show Nieuwsuur and two German outlets.",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/24f6e329-5f85-4e10-b0f6-5404ce23dbb0.jpg",
+      "description": "From CNN staff"
+    },
+    {
+      "id": 9,
+      "title": "Child among 11 killed in Kryvyi Rih strike, Zelensky says",
+      "content": "A child was among the 11 people killed after a missile attack by Russia on an apartment building in the central Ukrainian city of Kryvyi Rih on Tuesday, Ukrainian President Volodymyr Zelensky said in his nightly address.\n\nZelensky said rescue operations and clearing of rubble had concluded, and sent his condolences to the families and loved ones of the victims. He added that more than 30 people were injured, all of whom are being provided with assistance.\n\nA day of mourning for the victims has been declared on Wednesday. \n\n\n",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/1d1529fb-7396-4a57-b027-daec89262ee0.jpg",
+      "description": "From CNN's Yulia Kesaieva \n\n"
+    },
+    {
+      "id": 10,
+      "title": "Ukrainians fighting to drive back Russian forces in Donetsk and Zaporizhzhia, commander says",
+      "content": "A Ukrainian military commander said Tuesday that soldiers are fighting fiercely to drive back Russian forces along the border of the Donetsk and Zaporizhzhia regions.\n\n“In the Tavria sector, the Ukrainian defense forces are systematically destroying Russian manpower and equipment,” said Brig. Gen. Oleksandr Tarnavskyi, commander of the Tavria Operational and Strategic Group of Forces, whose troops are targeting occupied areas of Zaporizhzhia and the parts of Donetsk that border it.\n“Missile and artillery units of the Ukrainian defense forces in the Tavria sector carried out 1,504 firing missions over the last day,” he said, adding that “an enemy ammunition depot was also destroyed.\"\nCNN cannot independently verify battlefield claims.\n\nHowever, both sides have reported clashes in the Donetsk and Zaporizhzhia regions.",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/7d869d63-c858-43b1-bce9-52fce8c69d31.jpg",
+      "description": "From CNN's Yulia Kesaieva"
+    },
+    {
+      "id": 11,
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023"
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 12
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 13
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 14
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 15
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 16
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 17
+    },
+    {
+      "title": "After Saudi Arabia, Iran may be patching up with its oldest Arab foe",
+      "content": "It was perhaps the first royal wedding of its stature to have been filmed in the Middle East.\n\nThe year was 1939, when Princess Fawzia of Egypt tied the knot with Iran’s Crown Prince Mohammad Reza Pahlavi, interlocking the royal households of two of the Middle East’s most prominent nations in a strategic alliance.\n\nThousands of people had gathered for the event at Cairo’s Abdine Palace, where the wedding was marked with fireworks and a parade showcasing the two nations’ civilizations.\n\nPrincess Fawzia was the eldest sister of King Farouk I – Egypt’s last monarch – and was just 17 years old when she married Pahlavi, who two years later ascended to the throne and became Shah of Iran. Fawzia filed for divorce in 1945, and the divorce was recognized by Tehran in 1948.\n\nForty years after the wedding, Pahlavi was overthrown in an Islamic revolution that changed the course of Iranian relations with Arab states, and sent Iranian-Egyptian ties in particular on a downward spiral from which the two nations have never emerged.\n\nIran’s Supreme Leader Ayatollah Ali Khamenei last week publicly endorsed normalizing ties with Egypt, the most populous Arab country, saying that Iran “welcomes Egypt’s interest in restoring relations.”\n\n“We have no problem in this regard,” he tweeted.\n\nMedia reports have touted a potential détente between the two countries after Oman’s Sultan Haitham Bin Tariq visited both last month in what was seen as an attempt to broker a reconciliation.\n\nKhamenei’s recent comments come as Saudi Arabia normalizes ties with Iran after nearly eight years of a diplomatic freeze. Iran reopened its embassy and consulate in Saudi Arabia last week.\n\n“Iran is always looking for more cooperation in the wider Arab region, and normalization with Egypt, traditionally allied with the United States, would be something of a prize for Tehran,” HA Hellyer, a scholar at the Carnegie Endowment for International Peace in London, told CNN.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230614121618-princess-fawzia-and-prince-pahlavi-wedding-033039.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "description": "By Nadeen Ebrahim, CNNUpdated 3:31 PM EDT, Wed June 14, 2023",
+      "id": 18
+    }
+  ]
+}

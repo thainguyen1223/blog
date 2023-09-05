@@ -1,0 +1,74 @@
+.formGroup {
+    label {
+      color: #495057;
+    }
+    margin-bottom: 15px;
+  
+    input {
+      display: block;
+      width: 100%;
+      height: calc(1.5em + 0.75rem + 2px);
+      padding: 0.375rem 0.75rem;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #495057;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid #ced4da;
+      border-radius: 0.25rem;
+      transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+      &::placeholder {
+        font-size: 14px;
+      }
+    }
+    TextArea{
+        display: block;
+        width: 100%;
+        height: calc(5.5em + 7rem);
+        color: #495057;
+        background-color: #fff;
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        font-size: 1.1rem;
+        padding: 0.375rem 0.75rem;  
+        font-weight: 400;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: 0.25rem;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        &::placeholder {
+          font-size: 14px;
+        }
+    }
+  }
+  
+  .btnCreate {
+    button {
+      margin: 5px 0;
+      padding: 12px 15px;
+      background-color: rgb(0 116 216);
+      border-radius: 0.25rem;
+      color: #fff;
+      border: unset;
+      border-color: unset;
+      box-shadow: unset;
+      border-width: unset;
+      font-weight: 700;
+      cursor: pointer;    
+    }
+    :hover{
+      color: #fff;
+      background-color: #4096ff;
+    }
+  }
+  .btnCreate:nth-child(2){
+    display: flex;
+    justify-content: end;
+  }
+  .required {
+      color: red;
+      font-size: 13px;
+      margin-top: 5px;
+  }
