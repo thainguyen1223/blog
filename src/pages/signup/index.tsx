@@ -41,7 +41,7 @@ const login = () => {
       console.log(res);
       setTimeout(() => {
         Modal.success({
-          content: " created in success",
+          content: " Created in success",
         });
         router.push(APP_ROUTES.LOGIN);
       },3000);
